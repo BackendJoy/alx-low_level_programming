@@ -1,8 +1,3 @@
-/*
- * File: 103-keygen.c
- * Author: Ukonu Divine Chisom
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
